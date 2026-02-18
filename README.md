@@ -1,4 +1,4 @@
-# Modern Structured Logging With Serilog and Seq
+# Modern Structured Logging With Serilog, RavenDB and Seq
 
 ## RavenDB
 
