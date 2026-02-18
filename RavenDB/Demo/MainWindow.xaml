@@ -1,0 +1,15 @@
+﻿<Window x:Class="Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterScreen"
+        Title="Add New User" Height="380" Width="525">
+    <Grid>
+        <StackPanel>
+            <TextBlock>Name</TextBlock>
+            <TextBox Name="Name">Sarah</TextBox>
+            <TextBlock>Age</TextBlock>
+            <TextBox Name="Age">42</TextBox>
+            <Button Name="AddUser" Click="AddUser_OnClick">Add User</Button>
+        </StackPanel>
+    </Grid>
+</Window>
