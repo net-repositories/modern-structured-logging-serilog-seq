@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Misc/">
+    <File Path="Directory.Packages.props" />
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="CustomEnricher/CustomEnricher.csproj" Id="8292230e-4750-41ed-afab-130e4da06678" />
+  <Project Path="PlaceOrder/PlaceOrder.csproj" />
+  <Project Path="ShipOrder/ShipOrder.csproj" />
+</Solution>

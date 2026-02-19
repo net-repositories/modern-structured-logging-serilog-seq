@@ -1,5 +1,5 @@
 services:
-  ravendb_4.2.101:
+  ravendb:
     image: ravendb/ravendb:4.2.101-ubuntu.18.04-x64
     environment:
       - ACCEPT_EULA=Y      

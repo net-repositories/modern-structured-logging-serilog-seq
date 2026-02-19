@@ -20,4 +20,12 @@
 
 ## Seq
 
-TBD
+1. Зайти в папку с docker-compose.yml и выполнить
+
+    ```bash
+    docker-compose up
+    ```
+
+2. Теперь можно создавать записи и делать выборки.
+
+![Seq](images/seq1.png)
