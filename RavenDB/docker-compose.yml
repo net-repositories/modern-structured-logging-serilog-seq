@@ -5,6 +5,7 @@ services:
       - RAVEN_EULA_ACCEPTED=true
       - RAVEN_Setup_Mode=None
       - RAVEN_Security_UnsecuredAccessAllowed=PrivateNetwork
+      - RAVEN_ServerUrl=http://0.0.0.0:8080
     ports:      
       - '8080:8080' 
     
