@@ -2,6 +2,8 @@
 
 ## RavenDB
 
+### Вариант 1
+
 1. Зайти в папку с docker-compose.yml и выполнить
 
     ```bash
@@ -17,6 +19,10 @@
 ![RavenDB](images/rdb3.png)
 
 ![RavenDB](images/rdb2.png)
+
+### Вариант 2
+
+Запустить проект **Demo.AppHost**
 
 ## Seq
 

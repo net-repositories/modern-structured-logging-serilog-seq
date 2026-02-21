@@ -24,6 +24,7 @@ namespace Demo
 
             ILogger logger = new LoggerConfiguration()
                         .WriteTo.RavenDB(logDocumentStore)
+                        .WriteTo.Console()
                         .CreateLogger();
 
             Log.Logger = logger;
